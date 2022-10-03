@@ -5,3 +5,5 @@ Tensorflow
 MLFlow
 Keras
 Pytorch
+Seaborn
+Bokeh
