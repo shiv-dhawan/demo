@@ -3,3 +3,5 @@ pandas
 matplotlib
 Tensorflow
 MLFlow
+Keras
+Pytorch
